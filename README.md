@@ -60,6 +60,3 @@ All scripts expose random-seed arguments and set NumPy/PyTorch seeds. Minor nume
 
 The repository does not include large public datasets. Data sources, required fields, and expected file layouts are documented in `DATA_AVAILABILITY.md`.
 
-## Recommended citation
-
-Please cite the associated manuscript when using this code. Add the final DOI after publication.
