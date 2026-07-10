@@ -1,0 +1,27 @@
+# Core numerical/scientific stack
+numpy
+pandas
+scipy
+scikit-learn
+matplotlib
+statsmodels
+numba
+tqdm
+pyyaml
+h5py
+
+# Deep learning
+torch
+torch-geometric
+
+# Single-cell analysis
+scanpy
+anndata
+umap-learn
+phate
+
+# EEG analysis
+mne
+
+# Optimal transport
+POT
